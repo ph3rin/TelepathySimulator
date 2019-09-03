@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+/Build/
+/LinuxBuild/
+/Logs/
+/Temp/
